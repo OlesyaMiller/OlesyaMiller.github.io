@@ -1,11 +1,11 @@
 # Site settings
 author: Olesya Miller
-title: 
+title: My Flatiron School Blog
 header-img: img/home-bg.png
 email: olesyam.miller@gmail.com
 copyright_name: Olesya Miller
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Documenting my progress and sharing insights
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  OlesyaMiller
