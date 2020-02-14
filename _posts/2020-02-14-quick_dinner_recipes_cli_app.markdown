@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Quick Dinner Recipes CLI App #"
-date:       2020-02-14 07:48:11 +0000
+title:      "Quick Dinner Recipes CLI App "
+date:       2020-02-14 02:48:12 -0500
 permalink:  quick_dinner_recipes_cli_app
 ---
 
