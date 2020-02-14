@@ -7,7 +7,7 @@ permalink:  quick_dinner_recipes_cli_app
 
 
 I am very excited to present you my Quick Dinner Recipes CLI App!
-I decided to build a recipes app because I love cooking and think that an app like that would come in handy for a cookin aficionado.
+I decided to build a recipes app because I love cooking and think that an app like that would come in handy for a cooking aficionado.
 
 The purpose of this app is to let user find a recipe that suits their time frame and diet. 
 
