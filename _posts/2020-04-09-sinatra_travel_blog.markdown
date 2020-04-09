@@ -6,7 +6,7 @@ permalink:  sinatra_travel_blog
 ---
 
 
-I’m happy to present you my Sinatra Travel Blog! I’ve been wanting to build a blog for a while, and now that I have enough knowledge I’m very happy to finally have been able to execute my idea!
+I am very excited to present you my Sinatra Travel Blog! I’ve been wanting to build a blog for a while, and now that I have enough knowledge I’m very happy to finally have been able to execute my idea!
 
 I use MVC pattern to divide my app logic. That is also called ‘separation of concerns’.
 
