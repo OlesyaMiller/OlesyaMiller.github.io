@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Travel Blog"
-date:       2020-04-09 19:59:36 +0000
+date:       2020-04-09 15:59:36 -0400
 permalink:  sinatra_travel_blog
 ---
 
