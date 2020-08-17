@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JS and Rails SPA Trip Finder "
-date:       2020-08-06 14:39:06 +0000
+date:       2020-08-06 10:39:06 -0400
 permalink:  js_and_rails_spa_trip_finder
 ---
 
@@ -11,15 +11,15 @@ Here is how I was able to implement this functionality.
 Since Rails serves just as backend in this project it is considered good practice to add  - - api flag to your new app generator. That lets you configure your application with a more limited middleware than normal and skip generating views, helpers, and assets when you generate a new resource. This is how the file structure looks like:
 
 -	JS-and-Rails-SPA
-  - Backend
-	  - App
-	  - Config
-	  - DB 
-	  - other folders and files
-  - Frontend
-	  - models
-	  - index.html
-	  - index.js
+    - Backend
+	    - App
+	    - Config
+	    - db
+	    - other folders and files
+    - Frontend
+	    - models
+	    - index.html
+	    - index.js
 
 My app has five models – Trip, Area, Type, Hotel and Attraction. Trip has many Attractions and Hotels and belongs to Type and Area. Attraction and Hotel belong to Trip. Area and Type have many Trips. 
 My HTML file has two forms – one for searching for a trip and one for creating one. Both forms have two dropdowns – one for area and one for type which are models in my project. I render types by making a fetch request to the Type index action what lets me grab all of the Type instances and dynamically display them.  This is how I do it:
