@@ -7,6 +7,7 @@ permalink:  js_and_rails_spa_trip_finder
 
 
 Welcome to my JS and Rails SPA Trip Finder app! My app lets you look for trips by type and area and to create new ones. It was a very fun project to build because I had to create my own API with Ruby and Rails and use JavaScript to display the API data. All interactions between the client and the server are handled asynchronously and use JSON as the communication format.
+
 Here is how I was able to implement this functionality.
 Since Rails serves just as backend in this project it is considered good practice to add  - - api flag to your new app generator. That lets you configure your application with a more limited middleware than normal and skip generating views, helpers, and assets when you generate a new resource. This is how the file structure looks like:
 
